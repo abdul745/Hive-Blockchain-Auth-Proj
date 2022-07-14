@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mintrawa/hive-auth-client": "^0.0.8"
+  }
+}
